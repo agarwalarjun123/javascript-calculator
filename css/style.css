@@ -1,0 +1,21 @@
+#calc{
+  border-style:solid;
+  border-color:lightgrey;
+  height:300px;
+  width:300px;
+  background-color:silver;
+  font-color:
+}
+#display{
+  height:40px;
+  width:260px;
+  display:block;
+  border-radius:4px;
+  margin:auto;
+  border-style:solid;
+  border-radius:4px;
+}
+button{
+  width:70px;
+  height:40px;
+}
